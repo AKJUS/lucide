@@ -54,9 +54,9 @@
     "@vue/test-utils": "2.4.6",
     "rollup": "^4.53.3",
     "rollup-plugin-dts": "^6.2.3",
-    "vite": "^7.2.4",
+    "vite": "^7.0.8",
     "vitest": "^4.0.12",
-    "vue": "^3.5.20"
+    "vue": "^3.0.0"
   },
   "peerDependencies": {
     "vue": ">=3.0.1"
