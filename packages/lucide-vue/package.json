@@ -54,8 +54,8 @@
     "typescript": "^5.8.3",
     "vite": "^7.2.4",
     "vitest": "^4.0.12",
-    "vue": "2.7.14",
-    "vue-template-compiler": "2.7.14"
+    "vue": "3.0.0",
+    "vue-template-compiler": "2.7.16"
   },
   "peerDependencies": {
     "vue": "^2.6.12"
