@@ -62,11 +62,11 @@
     "jest-serializer-html": "^7.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "rollup": "^4.59.0",
+    "rollup": "^4.59.1",
     "rollup-plugin-dts": "^6.2.3",
     "rollup-plugin-preserve-directives": "^0.4.0",
     "typescript": "^5.8.3",
-    "vite": "^7.2.4"
+    "vite": "^7.3.2"
   },
   "peerDependencies": {
     "react": "^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0"
